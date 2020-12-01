@@ -1,2 +1,3 @@
 # C-plus-Games
-Juegos en c++
+Coleccion de distintos juegos realizados en C ansi y C++ con SFML 
+
